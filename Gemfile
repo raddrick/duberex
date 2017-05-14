@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem "react-rails"
 
+gem 'httparty'
 gem 'gmaps4rails'
 gem 'underscore-rails'
 
